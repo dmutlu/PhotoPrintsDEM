@@ -6,4 +6,6 @@
     <string name="five_seven">5 x 7 [49 cents]</string>
     <string name="eight_ten">8 x 10 [79 cents]</string>
     <string name="button">Order Prints</string>
+    <string name="order_cost">The order cost is\u0020</string>
+    <string name="toast">Please enter an amount 1 &#8211; 50.</string>
 </resources>
