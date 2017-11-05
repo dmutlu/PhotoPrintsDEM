@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Photo Prints DEM</string>
+    <string name="title">Mobile Photo Prints</string>
+    <string name="hint">Number of Prints</string>
+    <string name="four_six">4 x 6 [19 cents]</string>
+    <string name="five_seven">5 x 7 [49 cents]</string>
+    <string name="eight_ten">8 x 10 [79 cents]</string>
+    <string name="button">Order Prints</string>
 </resources>
