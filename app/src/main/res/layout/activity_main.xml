@@ -92,7 +92,8 @@
                             android:layout_height="wrap_content"
                             android:id="@+id/radio4x6"
                             android:layout_weight="1"
-                            android:textSize="18sp"/>
+                            android:textSize="18sp"
+                            android:checked="true"/>
 
                     <RadioButton
                             android:text="@string/five_seven"
